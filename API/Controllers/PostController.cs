@@ -9,6 +9,8 @@ using Data;
 
 namespace Blogger.Controllers
 {
+
+
     [Route("api/[controller]")]
     [ApiController]
     public class PostsController : ControllerBase
@@ -21,6 +23,7 @@ namespace Blogger.Controllers
 
         //GET:  /api/<PostsController>
         [HttpGet]
+        [Produces("application/json")]
         public async Task<IActionResult> Get()
         {
             return Ok(await _postDbContext.Posts.ToListAsync());

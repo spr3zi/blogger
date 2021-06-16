@@ -62,3 +62,6 @@ D:\Code\Projects\Blogger2\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 D:\Code\Projects\Blogger2\API\bin\Debug\net5.0\Humanizer.dll
 D:\Code\Projects\Blogger2\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Code\Projects\Blogger2\API\bin\Debug\net5.0\package-lock.json
+D:\Code\Projects\Blogger2\API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Code\Projects\Blogger2\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code\Projects\Blogger2\API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
