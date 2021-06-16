@@ -2,7 +2,7 @@
 A personal blog page built in .Net and React.
 
 
-##To Run:
+## To Run:
 
 1. cd into /API and use `dotnet watch run`
 2. start a second terminal
