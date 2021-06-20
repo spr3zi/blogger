@@ -1,9 +1,2 @@
 # blogger
-A personal blog page built in .Net and React.
-
-
-## To Run:
-
-1. cd into /API and use `dotnet watch run`
-2. start a second terminal
-3. cd into /client-app and use `yarn start`
+This was my final project for the Microsoft Systems and Software Academy. The project goal was to use the MVC design pattern to create a web application that performed CRUD operations. While using a basic structure would have sufficed, I decided that it was a good opportunity to dip my toes in React, as well as create a RESTful API.
